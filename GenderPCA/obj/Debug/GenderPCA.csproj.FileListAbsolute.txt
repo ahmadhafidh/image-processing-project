@@ -1,0 +1,7 @@
+E:\PENTING\Kerja\bella\GenderPCA\GenderPCA\GenderPCA\bin\Debug\GenderPCA.exe.config
+E:\priskachoirina-genderpca-f68c654b3906\GenderPCA\bin\Debug\GenderPCA.exe.config
+E:\belladessyratih\GenderPCA\bin\Debug\GenderPCA.exe.config
+E:\belladessyratih\GenderPCA\obj\Debug\GenderPCA.csprojResolveAssemblyReference.cache
+E:\belladessyratih\GenderPCA\obj\Debug\GenderPCA.Form1.resources
+E:\belladessyratih\GenderPCA\obj\Debug\GenderPCA.Properties.Resources.resources
+E:\belladessyratih\GenderPCA\obj\Debug\GenderPCA.csproj.GenerateResource.Cache

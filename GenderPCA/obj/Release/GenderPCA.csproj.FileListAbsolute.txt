@@ -1,0 +1,108 @@
+E:\PENTING\Kerja\bella\GenderPCA\GenderPCA\GenderPCA\bin\Release\GenderPCA.exe.config
+E:\PENTING\Kerja\bella\GenderPCA\GenderPCA\GenderPCA\bin\Release\GenderPCA.exe
+E:\PENTING\Kerja\bella\GenderPCA\GenderPCA\GenderPCA\bin\Release\GenderPCA.pdb
+E:\PENTING\Kerja\bella\GenderPCA\GenderPCA\GenderPCA\bin\Release\Emgu.CV.Contrib.dll
+E:\PENTING\Kerja\bella\GenderPCA\GenderPCA\GenderPCA\bin\Release\Emgu.CV.Cuda.dll
+E:\PENTING\Kerja\bella\GenderPCA\GenderPCA\GenderPCA\bin\Release\Emgu.CV.DebuggerVisualizers.VS2012.dll
+E:\PENTING\Kerja\bella\GenderPCA\GenderPCA\GenderPCA\bin\Release\Emgu.CV.dll
+E:\PENTING\Kerja\bella\GenderPCA\GenderPCA\GenderPCA\bin\Release\Emgu.CV.ML.dll
+E:\PENTING\Kerja\bella\GenderPCA\GenderPCA\GenderPCA\bin\Release\Emgu.CV.UI.dll
+E:\PENTING\Kerja\bella\GenderPCA\GenderPCA\GenderPCA\bin\Release\Emgu.CV.VideoStab.dll
+E:\PENTING\Kerja\bella\GenderPCA\GenderPCA\GenderPCA\bin\Release\Emgu.Util.dll
+E:\PENTING\Kerja\bella\GenderPCA\GenderPCA\GenderPCA\bin\Release\ZedGraph.dll
+E:\PENTING\Kerja\bella\GenderPCA\GenderPCA\GenderPCA\bin\Release\Emgu.CV.pdb
+E:\PENTING\Kerja\bella\GenderPCA\GenderPCA\GenderPCA\bin\Release\Emgu.CV.xml
+E:\PENTING\Kerja\bella\GenderPCA\GenderPCA\GenderPCA\bin\Release\Emgu.CV.Contrib.xml
+E:\PENTING\Kerja\bella\GenderPCA\GenderPCA\GenderPCA\bin\Release\Emgu.CV.Cuda.pdb
+E:\PENTING\Kerja\bella\GenderPCA\GenderPCA\GenderPCA\bin\Release\Emgu.CV.Cuda.xml
+E:\PENTING\Kerja\bella\GenderPCA\GenderPCA\GenderPCA\bin\Release\Emgu.CV.ML.xml
+E:\PENTING\Kerja\bella\GenderPCA\GenderPCA\GenderPCA\bin\Release\Emgu.CV.UI.pdb
+E:\PENTING\Kerja\bella\GenderPCA\GenderPCA\GenderPCA\bin\Release\Emgu.CV.UI.xml
+E:\PENTING\Kerja\bella\GenderPCA\GenderPCA\GenderPCA\bin\Release\Emgu.CV.VideoStab.xml
+E:\PENTING\Kerja\bella\GenderPCA\GenderPCA\GenderPCA\bin\Release\Emgu.Util.pdb
+E:\PENTING\Kerja\bella\GenderPCA\GenderPCA\GenderPCA\bin\Release\Emgu.Util.xml
+E:\PENTING\Kerja\bella\GenderPCA\GenderPCA\GenderPCA\bin\Release\ZedGraph.xml
+E:\PENTING\Kerja\bella\GenderPCA\GenderPCA\GenderPCA\bin\Release\zh-CN\Emgu.CV.UI.resources.dll
+E:\PENTING\Kerja\bella\GenderPCA\GenderPCA\GenderPCA\bin\Release\zh-CN\ZedGraph.resources.dll
+E:\PENTING\Kerja\bella\GenderPCA\GenderPCA\GenderPCA\obj\Release\GenderPCA.csprojResolveAssemblyReference.cache
+E:\PENTING\Kerja\bella\GenderPCA\GenderPCA\GenderPCA\obj\Release\GenderPCA.Form1.resources
+E:\PENTING\Kerja\bella\GenderPCA\GenderPCA\GenderPCA\obj\Release\GenderPCA.Properties.Resources.resources
+E:\PENTING\Kerja\bella\GenderPCA\GenderPCA\GenderPCA\obj\Release\GenderPCA.csproj.GenerateResource.Cache
+E:\PENTING\Kerja\bella\GenderPCA\GenderPCA\GenderPCA\obj\Release\GenderPCA.exe
+E:\PENTING\Kerja\bella\GenderPCA\GenderPCA\GenderPCA\obj\Release\GenderPCA.pdb
+E:\priskachoirina-genderpca-f68c654b3906\GenderPCA\bin\Release\GenderPCA.exe.config
+E:\priskachoirina-genderpca-f68c654b3906\GenderPCA\obj\Release\GenderPCA.exe
+E:\priskachoirina-genderpca-f68c654b3906\GenderPCA\obj\Release\GenderPCA.pdb
+E:\priskachoirina-genderpca-f68c654b3906\GenderPCA\bin\Release\GenderPCA.exe
+E:\priskachoirina-genderpca-f68c654b3906\GenderPCA\bin\Release\GenderPCA.pdb
+E:\priskachoirina-genderpca-f68c654b3906\GenderPCA\bin\Release\ZedGraph.dll
+E:\priskachoirina-genderpca-f68c654b3906\GenderPCA\bin\Release\Emgu.CV.pdb
+E:\priskachoirina-genderpca-f68c654b3906\GenderPCA\bin\Release\Emgu.CV.xml
+E:\priskachoirina-genderpca-f68c654b3906\GenderPCA\bin\Release\Emgu.CV.Contrib.xml
+E:\priskachoirina-genderpca-f68c654b3906\GenderPCA\bin\Release\Emgu.CV.Cuda.pdb
+E:\priskachoirina-genderpca-f68c654b3906\GenderPCA\bin\Release\Emgu.CV.Cuda.xml
+E:\priskachoirina-genderpca-f68c654b3906\GenderPCA\bin\Release\Emgu.CV.ML.xml
+E:\priskachoirina-genderpca-f68c654b3906\GenderPCA\bin\Release\Emgu.CV.UI.pdb
+E:\priskachoirina-genderpca-f68c654b3906\GenderPCA\bin\Release\Emgu.CV.UI.xml
+E:\priskachoirina-genderpca-f68c654b3906\GenderPCA\bin\Release\Emgu.CV.VideoStab.xml
+E:\priskachoirina-genderpca-f68c654b3906\GenderPCA\bin\Release\Emgu.Util.pdb
+E:\priskachoirina-genderpca-f68c654b3906\GenderPCA\bin\Release\Emgu.Util.xml
+E:\priskachoirina-genderpca-f68c654b3906\GenderPCA\bin\Release\ZedGraph.xml
+E:\priskachoirina-genderpca-f68c654b3906\GenderPCA\obj\Release\GenderPCA.csprojResolveAssemblyReference.cache
+E:\priskachoirina-genderpca-f68c654b3906\GenderPCA\obj\Release\GenderPCA.Form1.resources
+E:\priskachoirina-genderpca-f68c654b3906\GenderPCA\obj\Release\GenderPCA.Properties.Resources.resources
+E:\priskachoirina-genderpca-f68c654b3906\GenderPCA\obj\Release\GenderPCA.csproj.GenerateResource.Cache
+E:\belladessyratih\GenderPCA\bin\Release\GenderPCA.exe.config
+E:\belladessyratih\GenderPCA\obj\Release\GenderPCA.exe
+E:\belladessyratih\GenderPCA\obj\Release\GenderPCA.pdb
+E:\belladessyratih\GenderPCA\bin\Release\GenderPCA.exe
+E:\belladessyratih\GenderPCA\bin\Release\GenderPCA.pdb
+E:\belladessyratih\GenderPCA\obj\Release\GenderPCA.csprojResolveAssemblyReference.cache
+E:\belladessyratih\GenderPCA\obj\Release\GenderPCA.Form1.resources
+E:\belladessyratih\GenderPCA\obj\Release\GenderPCA.Properties.Resources.resources
+E:\belladessyratih\GenderPCA\obj\Release\GenderPCA.csproj.GenerateResource.Cache
+E:\SEMPRO BELLA\belladessyratih\GenderPCA\bin\Release\GenderPCA.exe.config
+E:\SEMPRO BELLA\belladessyratih\GenderPCA\bin\Release\GenderPCA.exe
+E:\SEMPRO BELLA\belladessyratih\GenderPCA\bin\Release\GenderPCA.pdb
+E:\SEMPRO BELLA\belladessyratih\GenderPCA\obj\Release\GenderPCA.Form1.resources
+E:\SEMPRO BELLA\belladessyratih\GenderPCA\obj\Release\GenderPCA.Properties.Resources.resources
+E:\SEMPRO BELLA\belladessyratih\GenderPCA\obj\Release\GenderPCA.csproj.GenerateResource.Cache
+E:\SEMPRO BELLA\belladessyratih\GenderPCA\obj\Release\GenderPCA.exe
+E:\SEMPRO BELLA\belladessyratih\GenderPCA\obj\Release\GenderPCA.pdb
+E:\SEMPRO BELLA\belladessyratih\GenderPCA\obj\Release\GenderPCA.csprojResolveAssemblyReference.cache
+I:\belladessyratih\GenderPCA\bin\Release\GenderPCA.exe.config
+I:\belladessyratih\GenderPCA\obj\Release\GenderPCA.exe
+I:\belladessyratih\GenderPCA\obj\Release\GenderPCA.pdb
+I:\belladessyratih\GenderPCA\bin\Release\GenderPCA.exe
+I:\belladessyratih\GenderPCA\bin\Release\GenderPCA.pdb
+I:\belladessyratih\GenderPCA\obj\Release\GenderPCA.csprojResolveAssemblyReference.cache
+I:\belladessyratih\GenderPCA\obj\Release\GenderPCA.Form1.resources
+I:\belladessyratih\GenderPCA\obj\Release\GenderPCA.Properties.Resources.resources
+I:\belladessyratih\GenderPCA\obj\Release\GenderPCA.csproj.GenerateResource.Cache
+G:\belladessyratih\GenderPCA\bin\Release\GenderPCA.exe.config
+G:\belladessyratih\GenderPCA\obj\Release\GenderPCA.exe
+G:\belladessyratih\GenderPCA\obj\Release\GenderPCA.pdb
+G:\belladessyratih\GenderPCA\bin\Release\GenderPCA.exe
+G:\belladessyratih\GenderPCA\bin\Release\GenderPCA.pdb
+G:\belladessyratih\GenderPCA\obj\Release\GenderPCA.csprojResolveAssemblyReference.cache
+G:\belladessyratih\GenderPCA\obj\Release\GenderPCA.Form1.resources
+G:\belladessyratih\GenderPCA\obj\Release\GenderPCA.Properties.Resources.resources
+G:\belladessyratih\GenderPCA\obj\Release\GenderPCA.csproj.GenerateResource.Cache
+E:\belladessyratih\GenderPCA\bin\Release\mscorlib.dll
+E:\belladessyratih\GenderPCA\bin\Release\normidna.nlp
+E:\belladessyratih\GenderPCA\bin\Release\normnfc.nlp
+E:\belladessyratih\GenderPCA\bin\Release\normnfd.nlp
+E:\belladessyratih\GenderPCA\bin\Release\normnfkc.nlp
+E:\belladessyratih\GenderPCA\bin\Release\normnfkd.nlp
+D:\belladessyratih\GenderPCA\bin\Release\GenderPCA.exe.config
+D:\belladessyratih\GenderPCA\obj\Release\GenderPCA.exe
+D:\belladessyratih\GenderPCA\obj\Release\GenderPCA.pdb
+D:\belladessyratih\GenderPCA\bin\Release\GenderPCA.exe
+D:\belladessyratih\GenderPCA\bin\Release\GenderPCA.pdb
+D:\belladessyratih\GenderPCA\obj\Release\GenderPCA.csprojResolveAssemblyReference.cache
+D:\belladessyratih\GenderPCA\obj\Release\GenderPCA.Form1.resources
+D:\belladessyratih\GenderPCA\obj\Release\GenderPCA.Properties.Resources.resources
+D:\belladessyratih\GenderPCA\obj\Release\GenderPCA.csproj.GenerateResource.Cache
+D:\Freelance\SKRIPSI RATIH\belladessyratih\GenderPCA\bin\Release\GenderPCA.exe.config
+D:\Freelance\SKRIPSI RATIH\belladessyratih\GenderPCA\obj\Release\GenderPCA.exe
+D:\Freelance\SKRIPSI RATIH\belladessyratih\GenderPCA\obj\Release\GenderPCA.pdb
